@@ -1,0 +1,11 @@
+.header{
+    width:100%;
+    font-size:27px;
+    margin:0px;
+}
+
+canvas{
+border-radius:10px;
+box-shadow:5px 5px 5px grey;
+margin-top:130px;
+}
